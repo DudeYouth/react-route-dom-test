@@ -11,4 +11,4 @@
     webpack -w
 ```
 
-配招服务器后访问 http://localhost/#/test
+配置好服务器后访问 http://localhost/#/test
