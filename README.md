@@ -10,3 +10,5 @@
     npm install webpack -g
     webpack -w
 ```
+
+配招服务器后访问 http://localhost/#/test
